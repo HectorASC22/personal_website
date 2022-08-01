@@ -1,0 +1,172 @@
+/* nav bar */
+#mountImg {
+    width: 3790px;
+}
+
+#navBar {
+    background-color: white;
+    display: flex;
+    font-size: 70px;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    text-align: center;
+    bottom: 780px;
+    width: 65%;
+    left: 710px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: darkblue;
+}
+
+#navMountain {
+    position: relative;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(44, 65, 97);
+}
+
+#navBar div:hover {
+    background-color: gray;
+}
+/* ------------------------------------------------ */
+
+
+
+
+/* second container with img text and social media icons */
+#second_container {
+    position: absolute;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    left: 720px;
+    bottom: 12%;
+    padding: 200px;
+    padding-right: 1737px;
+}
+#luna_img {
+    width: 550px;
+}
+.social_icons {
+    width: 100px;
+
+}
+#social_box {
+    position: absolute;
+    bottom: 170px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    left: 1000px;
+    justify-content: space-evenly;
+    width: 1400px;
+}
+#link_img {
+    width: 300px;
+}
+#git_img {
+    width: 300px;
+}
+#container_text {
+    font-size: 40px;
+    position: absolute;
+    left: 1000px;
+    bottom: 700px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 700px;
+    
+}
+#name {
+    display: flex;
+    flex-direction: row;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 60px;
+    position: absolute;
+    bottom: 180px;
+}
+#age {
+    position: absolute;
+    bottom: 50px;
+
+
+}
+#email {
+    position: absolute;
+    bottom: -40px;
+}
+#number {
+    position: absolute;
+    bottom: -150px;
+}
+#tip {
+    position: absolute;
+    bottom: -350px;
+    font-size: 30px;
+    color: gray;
+}
+/* ------------------------------------------------------- */
+
+
+
+/* Cards and titles */
+#card_container {
+    position: absolute;
+    display: flex;
+    font-size: 50px;
+    bottom: -800px;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 4000px;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.cards img {
+    width: 260px;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.cards {
+    background-color: rgb(65, 65, 158);
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.cards .card_text {
+    font-size: 20px;
+    width: 400px;
+    padding-top: 100px;
+    text-decoration: none;
+    font-weight: none;
+
+}
+
+/* -------------------------------------------------------------- */
+
+#credits {
+    position: absolute;
+    font-size: 30px;
+    bottom: -1600px;
+    background-color: rgb(63, 63, 63);
+    color: grey;
+    padding-top: 300px;
+    padding-right: 3600px;
+}
+
+
+
+
+
