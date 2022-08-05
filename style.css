@@ -131,6 +131,44 @@ body {
     padding-left: 30px;
     padding-right: 30px;
 }
+
+
+
+
+.arrows {
+    font-size: 30px;
+    color: rgb(116, 126, 173);
+}
+
+#card1 {
+    display: block;
+    transition: display 2s;
+
+}
+
+#card2 {
+    display: block;
+    transition: display 2s;
+
+}
+
+#card3 {
+    display: block;
+    transition: display 2s;
+
+}
+
+#card4 {
+    display: none;
+    transition: display 2s;
+
+}
+
+
+
+
+
+
 /* -------------------------------------------------------------- */
 
 
